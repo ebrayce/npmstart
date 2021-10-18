@@ -1,0 +1,14 @@
+{
+  "name": "@ebrayce/startnpm",
+  "version": "1.0.0",
+  "description": "This is to start my npm package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "keywords": [
+    "start"
+  ],
+  "author": "@ebrayce",
+  "license": "ISC"
+}
